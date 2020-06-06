@@ -1,0 +1,1 @@
+execute at @e[tag=rope_placeholder_knot] run particle minecraft:instant_effect ~ ~1 ~
